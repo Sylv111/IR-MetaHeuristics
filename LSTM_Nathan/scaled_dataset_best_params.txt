@@ -1,0 +1,5 @@
+Meilleurs hyperparamètres trouvés :
+lr = 0.004406799492018019
+filters1 = 69
+filters2 = 62
+dense_units = 111
